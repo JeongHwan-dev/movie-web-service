@@ -27,6 +27,8 @@
 - **사용 오픈 API**
   > https://yts-proxy.now.sh/list_movies.json?sort_by=rating
 
+<br />
+
 [**🔗 배포된 웹 서비스로 바로가기 Click !**](https://jeonghwan-dev.github.io/movie-web-service) 👈
 
 <br />

@@ -3,9 +3,8 @@
   <img src="./images/movie_app_logo.png" alt="Movie Rating Web Service" height="200px" />
   <br />
   <h1>영화 평점 웹 서비스 (Movie Rating Web Service)</h1>
-  <br />
-    <a href="https://jeonghwan-dev.github.io/movie-web-service">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-Active-AEF359?&logo=github&logoColor=white" alt="GitHub-Pages" />
+  <a href="https://jeonghwan-dev.github.io/movie-web-service">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-Active-AEF359?&logo=github&logoColor=white" alt="GitHub-Pages" />
   </a>
   <br />
 </div>
@@ -47,7 +46,7 @@
 
 ## 💡 주요 기능
 
-- 영화 정보(개봉년도, 해쉬태그, 줄거리) 제공
+- 영화 정보(개봉 연도, 해시태그, 줄거리) 제공
 
 |                             메인 페이지                             |                           자세히 보기 페이지                            |
 | :-----------------------------------------------------------------: | :---------------------------------------------------------------------: |
@@ -63,7 +62,7 @@
 $ git clone https://github.com/JeongHwan-dev/movie-web-service.git
 ```
 
-2. 필요한 node_modules 설치 (복제한 저장소 위치에서)
+2. **필요한 node_modules 설치** (복제한 저장소 위치에서)
 
 ```bash
 $ npm install

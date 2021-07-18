@@ -2,7 +2,7 @@
   <br />
   <img src="./images/movie_app_logo.png" alt="Movie Rating Web Service" height="200px" />
   <br />
-  <h1>영화 평점 웹 서비스 (Movie Rating Web Service)</h1>
+  <h1>영화 정보 웹 서비스 (Movie Information Web Service)</h1>
   <a href="https://jeonghwan-dev.github.io/movie-web-service">
   <img src="https://img.shields.io/badge/GitHub%20Pages-Active-AEF359?&logo=github&logoColor=white" alt="GitHub-Pages" />
   </a>

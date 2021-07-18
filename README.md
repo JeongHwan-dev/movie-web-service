@@ -32,6 +32,7 @@
 
 [**🔗 배포된 웹 서비스로 바로가기 Click !**](https://jeonghwan-dev.github.io/movie-web-service) 👈  
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
+
 <br />
 
 ## 🛠 기술 스택

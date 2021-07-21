@@ -4,20 +4,22 @@
   <br />
   <h1>영화 정보 웹 서비스 (Movie Information Web Service)</h1>
   <a href="https://jeonghwan-dev.github.io/movie-web-service">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-Active-AEF359?&logo=github&logoColor=white" alt="GitHub-Pages" />
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Active-AEF359?&logo=github&logoColor=white" alt="GitHub-Pages" />
   </a>
   <br />
 </div>
 
 ## 목차
 
-1. **웹 서비스 소개**
-2. **기술 스택**
-3. **주요 기능**
-4. **주요 페이지**
-5. **실행 방법**
+1. [**웹 서비스 소개**](#1)
+2. [**기술 스택**](#2)
+3. [**주요 기능**](#3)
+4. [**주요 페이지**](#4)
+5. [**실행 방법**](#5)
 
 <br />
+
+<div id="1"></div>
 
 ## 💁🏻‍♂ 웹 서비스 소개
 
@@ -30,10 +32,13 @@
 
 <br />
 
-[**🔗 배포된 웹 서비스로 바로가기 Click !**](https://jeonghwan-dev.github.io/movie-web-service) 👈  
+[**🔗 배포된 웹 서비스로 바로가기 Click !**](https://jeonghwan-dev.github.io/movie-web-service) 👈
+
 > 새 창 열기 방법 : CTRL+click (on Windows and Linux) | CMD+click (on MacOS)
 
 <br />
+
+<div id="2"></div>
 
 ## 🛠 기술 스택
 
@@ -42,11 +47,13 @@
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white)
 - ![React](https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white)
 
-**ETC**
+**DevOps**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github&logoColor=white)
 
 <br />
+
+<div id="3"></div>
 
 ## 💡 주요 기능
 
@@ -62,6 +69,8 @@
 
 <br />
 
+<div id="4"></div>
+
 ## 💻 실행 방법
 
 1. **원격 저장소 복제**
@@ -70,13 +79,19 @@
 $ git clone https://github.com/JeongHwan-dev/movie-web-service.git
 ```
 
-2. **필요한 node_modules 설치** (복제한 저장소 위치에서)
+2. **프로젝트 폴더로 이동**
+
+```bash
+$ cd movie-web-service
+```
+
+3. **필요한 node_modules 설치**
 
 ```bash
 $ npm install
 ```
 
-3. **리액트 앱 실행**
+4. **리액트 앱 실행**
 
 ```bash
 $ npm start
